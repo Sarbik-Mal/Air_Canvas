@@ -43,7 +43,6 @@ python air_canvas.py
 ```
 Air_Canvas/
 │── air_canvas.py        # Main script for the Air Canvas
-│── resources/           # Store brush icons, UI elements, etc.
 │── README.md            # Project documentation
 ```
 
