@@ -42,7 +42,7 @@ python Air_Canvas.py
 ## 📂 Project Structure
 ```
 Air_Canvas/
-│── air_canvas.py        # Main script for the Air Canvas
+│── Air_Canvas.py        # Main script for the Air Canvas
 │── README.md            # Project documentation
 ```
 
