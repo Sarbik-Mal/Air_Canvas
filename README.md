@@ -25,7 +25,7 @@ cd Air_Canvas
 
 ### Run the Application
 ```sh
-python air_canvas.py
+python Air_Canvas.py
 ```
 
 ---
